@@ -1,0 +1,34 @@
+{
+  "GET Playlist Detail (Cached)" : {
+    "transaction" : "GET Playlist Detail (Cached)",
+    "sampleCount" : 223586,
+    "errorCount" : 321,
+    "errorPct" : 0.14356892,
+    "meanResTime" : 2.8309330637875045,
+    "medianResTime" : 2.0,
+    "minResTime" : 0.0,
+    "maxResTime" : 200.0,
+    "pct1ResTime" : 4.0,
+    "pct2ResTime" : 5.0,
+    "pct3ResTime" : 9.0,
+    "throughput" : 373.6559409332625,
+    "receivedKBytesPerSec" : 350.24730333004527,
+    "sentKBytesPerSec" : 70.05134957401224
+  },
+  "Total" : {
+    "transaction" : "Total",
+    "sampleCount" : 223586,
+    "errorCount" : 321,
+    "errorPct" : 0.14356892,
+    "meanResTime" : 2.8309330637875045,
+    "medianResTime" : 2.0,
+    "minResTime" : 0.0,
+    "maxResTime" : 200.0,
+    "pct1ResTime" : 4.0,
+    "pct2ResTime" : 5.0,
+    "pct3ResTime" : 9.0,
+    "throughput" : 373.6559409332625,
+    "receivedKBytesPerSec" : 350.24730333004527,
+    "sentKBytesPerSec" : 70.05134957401224
+  }
+}

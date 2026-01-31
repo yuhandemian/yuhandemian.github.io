@@ -1,0 +1,34 @@
+{
+  "Total" : {
+    "transaction" : "Total",
+    "sampleCount" : 196655,
+    "errorCount" : 0,
+    "errorPct" : 0.0,
+    "meanResTime" : 244.11399659301676,
+    "medianResTime" : 190.0,
+    "minResTime" : 33.0,
+    "maxResTime" : 2922.0,
+    "pct1ResTime" : 323.0,
+    "pct2ResTime" : 417.0,
+    "pct3ResTime" : 844.950000000008,
+    "throughput" : 130.48925091851083,
+    "receivedKBytesPerSec" : 1373.8326310082668,
+    "sentKBytesPerSec" : 29.818832729425324
+  },
+  "GET Playlists with Deep Cursor" : {
+    "transaction" : "GET Playlists with Deep Cursor",
+    "sampleCount" : 196655,
+    "errorCount" : 0,
+    "errorPct" : 0.0,
+    "meanResTime" : 244.11399659301676,
+    "medianResTime" : 190.0,
+    "minResTime" : 33.0,
+    "maxResTime" : 2922.0,
+    "pct1ResTime" : 323.0,
+    "pct2ResTime" : 417.0,
+    "pct3ResTime" : 844.950000000008,
+    "throughput" : 130.48925091851083,
+    "receivedKBytesPerSec" : 1373.8326310082668,
+    "sentKBytesPerSec" : 29.818832729425324
+  }
+}
